@@ -1,3 +1,4 @@
+# GameSoccer
 Game Description
 Overview
 This game is a strategic player-ranking simulation where each player ranks the positions of their team: Left Attacker, Right Attacker, Left Defender, Right Defender, and Goalkeeper. The game consists of matches where each player plays against every other player in the pool, and the scoring system is based on the difference in goals scored and goals conceded.
