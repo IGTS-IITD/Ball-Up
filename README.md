@@ -7,12 +7,10 @@ Objective
 The objective of the game is to score more goals than your opponent by strategically ranking your players in their respective positions.
 
 Scoring Rules
-Attacking and Defending
 1. Right Attacker vs. Right Defender: If the Right Attacker of Player 1 is ranked better than the Right Defender of Player 2, Player 1 scores a goal.
 2. Left Attacker vs. Left Defender: If the Left Attacker of Player 1 is ranked better than the Left Defender of Player 2, Player 1 scores a goal.
 3. Right Defender vs. Right Attacker: If the Right Defender of Player 1 is ranked better than the Right Attacker of Player 2, Player 1 scores a goal.
 4. Left Defender vs. Left Attacker: If the Left Defender of Player 1 is ranked better than the Left Attacker of Player 2, Player 1 scores a goal.
-Goalkeeper
 5. Attacker vs. Goalkeeper: If any Attacker (Left or Right) of Player 1 is ranked better than the Goalkeeper of Player 2, Player 1 scores a goal.
 The same rules apply for Player 2's team when scoring against Player 1.
 
